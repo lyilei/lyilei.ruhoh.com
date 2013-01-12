@@ -1,10 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : 烟雨平生 
+tagline: stop, look, and listen 
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Peter Liu 
+  email : lyilei@gmail.com 
+  github : lyilei
+  twitter : lyilei 
   feedburner : feedname
 
 navigation :
@@ -13,4 +13,21 @@ navigation :
   - categories.html
   - pages.html
   - about.md
-  
+ 
+nav: 
+  - title: home
+    url: /
+    describe: 主页
+  - title: archive 
+    url: /archive
+    describe: 归档 
+  - title: categories 
+    url: /categories
+    describe: 分类
+  - title: tags
+    url: /tags
+    describe: 标签
+  - title: about
+    url: /about
+    describe: 关于俺
+

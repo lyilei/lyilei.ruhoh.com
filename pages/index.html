@@ -1,8 +1,8 @@
 ---
-title: Home
-description:
+title: 烟雨平生
+description: stop, look, and listen
 ---
-
+<!--
 <h2>Start</h2>
 <p>
   Ruhoh is all about the command-line.
@@ -12,15 +12,15 @@ description:
 
 
 <h2>Latest Posts</h2>
-
+-->
 {{# posts_latest }}
 <div class="post">
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
+  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date, pull-right">{{ date }}</span></h3>
 
   {{{ summary }}}
 
   <div class="more">
-    <a href="{{url}}" class="btn">read more..</a>
+    <a href="{{url}}" class="btn">More»</a>
   </div>
 </div>
 {{/ posts_latest }}
