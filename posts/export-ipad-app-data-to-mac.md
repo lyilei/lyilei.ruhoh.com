@@ -20,7 +20,7 @@ tags:
 下载下来的数据格式是XCAPPDATA，通过Show Package Content可以看到程序的目录结构如下：
 ![Directory Structure of XCAPPDATA]({{urls.media}}/directory_structure_of_xcappdata.png)
 
-这样我们就拿到了iPad里面我们App的真实数据，其实就是一个SQLite数据库，这里推荐使用<a href=‘http://mesasqlite.en.softonic.com/mac’ target=‘_blank’>MesaSQLite</a>打开和查询里面的数	据。
+这样我们就拿到了iPad里面我们App的真实数据，其实就是一个SQLite数据库，这里推荐使用<a href="http://mesasqlite.en.softonic.com/mac" target="_blank">MesaSQLite</a>打开和查询里面的数据。
 
 —————华丽丽的分割线——————
 
