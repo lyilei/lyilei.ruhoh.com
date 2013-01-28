@@ -2,8 +2,11 @@
 title: 精益创业-读书笔记
 date: 2013-01-03
 description: 
-categories: [‘精益创业’]
-tags: [TheLeanStartup, 精益创业]
+categories: 
+  - 精益创业
+tags: 
+  - TheLeanStartup
+  - 精益创业
 ---
 
 <a title="The Lean Startup" href="http://theleanstartup.com/" target="_blank">精益创业</a>是一个战略框架，它通过开发-测试-认知循环来指导开发最小化可行产品（MVP）以获取经证实的认知（Validated Learning）来验证新创企业的价值假设和增长假设，并且通过创新核算来评估取得的进步和是否需要转型。 精益创业的理论借鉴了精益生产的许多理论，并且借鉴了许多它的思考模型。精益创业是一个战略框架，不是让人生搬硬套的步骤规划图，因为它可以用来适应每个公司的特定情况。

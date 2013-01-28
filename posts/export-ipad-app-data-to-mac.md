@@ -3,10 +3,10 @@ title: 导出iPad上App的数据
 date: '2013-01-18'
 description:
 categories: 
-  - iOS,
+  - iOS
   - 移动开发
 tags:
-  - iOS,
+  - iOS
   - 移动开发
 ---
 
